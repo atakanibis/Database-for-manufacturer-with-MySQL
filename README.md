@@ -1,2 +1,2 @@
-# KOU-Prolab2-Project3
-Veri Tabanı Projesi
+# Database Project
+Database for manufacturer with MySQL
